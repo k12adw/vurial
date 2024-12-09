@@ -1,0 +1,4 @@
+pandas
+numpy
+mesa==1.2.1
+scipy
